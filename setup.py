@@ -19,6 +19,7 @@ PKGDATA = {
         os.path.join("*.nii"),
         os.path.join("*.nii.gz"),
         os.path.join("*.fits"),
+        os.path.join("*.tif"),
         os.path.join("*.npy")]
 }
 CLASSIFIERS = [
@@ -32,6 +33,7 @@ Antoine Grigis <antoine.grigis@cea.fr>
 Samuel Farrens <samuel.farrens@gmail.com>
 Jean-Luc Starck <jl.stark@cea.fr>
 Philippe Ciuciu <philippe.ciuciu@cea.fr>
+Zineb Saghi <zineb.saghi@cea.fr>
 """
 
 # Write setup
